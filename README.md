@@ -10,7 +10,8 @@ This repository is based on PyTorch 1.12.0, CUDA 11.３, and Python 3.９.７. A
 ## Usage
 We provide `code`, `dataset`, and `model` for the MDC dataset.
 
-The official dataset could be obtained at [MDC](http://bio-hsi.ecnu.edu.cn/) The official data is too large, we have provided preprocessed [data](https://www.kaggle.com/datasets/hfutybx/mhsi-choledoch-dataset-preprocessed-dataset) (including denoising and resize operations) for reproducing our paper experiments."
+The official dataset can be found at [MDC](http://bio-hsi.ecnu.edu.cn/). However, due to its size, we also provide preprocessed [data](https://www.kaggle.com/datasets/hfutybx/mhsi-choledoch-dataset-preprocessed-dataset) (including denoising and resize operations) for reproducing our paper experiments." 
+
 Download the dataset and move to the dataset fold.
 
 To train a model,
