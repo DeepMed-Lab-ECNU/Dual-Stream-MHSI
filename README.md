@@ -3,8 +3,7 @@ by Boxiang Yun, Qingli Li, Lubov Mitrofanova, Chunhua Zhou & Yan Wang*
 
 ## Introduction
 Official code for "[Factor Space and Spectrum for Medical Hyperspectral Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_15)". (MICCAI 2023)
-<div align=center>
-<![dual-stream](https://github.com/DeepMed-Lab-ECNU/Dual-Stream-MHSI/assets/36001411/de4ced96-5d07-4367-af05-ded4fd5a1815)/></div>
+![dual-stream](https://github.com/DeepMed-Lab-ECNU/Dual-Stream-MHSI/assets/36001411/de4ced96-5d07-4367-af05-ded4fd5a1815)
 
 
 ## Requirements
