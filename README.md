@@ -3,7 +3,9 @@ by Boxiang Yun, Qingli Li, Lubov Mitrofanova, Chunhua Zhou & Yan Wang*
 
 ## Introduction
 Official code for "[Factor Space and Spectrum for Medical Hyperspectral Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_15)". (MICCAI 2023)
-![dual-stream](https://github.com/DeepMed-Lab-ECNU/Dual-Stream-MHSI/assets/36001411/de4ced96-5d07-4367-af05-ded4fd5a1815)
+<div align=center>
+<![dual-stream](https://github.com/DeepMed-Lab-ECNU/Dual-Stream-MHSI/assets/36001411/de4ced96-5d07-4367-af05-ded4fd5a1815)/>
+</div>
 
 ## Requirements
 This repository is based on PyTorch 1.12.0, CUDA 11.３, and Python 3.９.７. All experiments in our paper were conducted on NVIDIA GeForce RTX 3090 GPU with an identical experimental setting.
