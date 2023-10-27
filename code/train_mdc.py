@@ -363,6 +363,7 @@ if __name__ == '__main__':
     parser.add_argument('--scheduler', '-sc', default='cos', choices=['cos', 'warmup'])
     parser.add_argument('--net', '-n', default='dual', type=str, choices=['backbone', 'dual'])
     parser.add_argument('--backbone', '-backbone', default='resnet34', type=str)
+    parser.add_argument('--attention_group', '-att_g', type=str, default='non', choices=['non', 'lowrank'])
     args = parser.parse_args()
 
     main(args)
