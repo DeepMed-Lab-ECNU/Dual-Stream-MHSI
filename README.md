@@ -63,4 +63,4 @@ pages="152--162",
 Some modules in our code were inspired by [Hamburger](https://github.com/Gsunshine/Enjoy-Hamburger) and [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch). We appreciate the effort of these authors to provide open-source code for the community. Hope our work can also contribute to related research.
 
 ## Questions
-If you have any questions, welcome contact me at 'boxiangyun@gmail.com'
+If you have any questions, welcome contact me at '52265904012@stu.ecnu.edu.cn'
